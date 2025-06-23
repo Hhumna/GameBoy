@@ -1,0 +1,4 @@
+Player: Humna
+Snake Game: 190 points
+Hangman Game: 320 points
+Wordle Game: 10 points

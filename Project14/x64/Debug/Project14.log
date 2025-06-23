@@ -1,0 +1,7 @@
+﻿  Hangman-Game.cpp
+  Wordle.cpp
+C:\Users\humna\source\repos\Project14\Project14\Hangman-Game.cpp(328,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\humna\source\repos\Project14\Project14\Hangman-Game.cpp(347,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\humna\source\repos\Project14\x64\Debug\Project14.exe not found or not built by the last incremental link; performing full link
+  Project14.vcxproj -> C:\Users\humna\source\repos\Project14\x64\Debug\Project14.exe
